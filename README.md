@@ -16,4 +16,13 @@ if the user is present in the database.
 ## Video Demo
 (https://www.youtube.com/watch?v=mZhd9TJizoU)
 
+## Some of Screenshot:
+<img src="demo/C.PNG" alt="workflow" width="70%">
 
+<img src="demo/D.PNG" alt="workflow" width="70%">
+
+<img src="demo/A.PNG" alt="workflow" width="70%">
+
+<img src="demo/E.png" alt="workflow" width="70%">
+
+<img src="demo/B.png" alt="workflow" width="70%">
