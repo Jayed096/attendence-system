@@ -25,4 +25,4 @@ if the user is present in the database.
 
 <img src="demo/E.png" alt="workflow" width="70%">
 
-<img src="demo/B.png" alt="workflow" width="70%">
+<img src="demo/B.PNG" alt="workflow" width="70%">
