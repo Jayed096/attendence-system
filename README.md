@@ -1,4 +1,4 @@
-# attendence-system
+
 
 # Face Recognition and Identification Sysmen
 
@@ -13,7 +13,7 @@ if the user is present in the database.
 ## Project link
 (https://github.com/Jayed096/attendence-system)
 
-#
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=mZhd9TJizoU)
+## Video Demo
+(https://www.youtube.com/watch?v=mZhd9TJizoU)
 
 
